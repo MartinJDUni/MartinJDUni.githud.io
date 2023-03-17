@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+}
+h3{
+    margin-top: 40px;
+}
+img{
+    width: 400px;
+    height: 480px;
+}
+ul{
+    margin: 10px;
+}
+main{
+    background-image: url("../asset/img/Fondo.png");
+    background-size: cover;
+    display: flex;
+}
+#final{
+    background-image: url("../asset/img/Fondo.png");
+    background-size: cover;
+    text-align: center;
+}
+#boton{
+    background-color: blueviolet;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+}
+#botonFinal{
+    text-align: center;
+}
+.seccionEntrada{
+    margin: 5px;
+}
+#fondo2{
+    width: 100px;
+    height: 150px;
+}
+#Imagen2{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.texto{
+    font-family: 'Courier New', Courier, monospace;
+}

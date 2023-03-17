@@ -1,0 +1,80 @@
+.Circulo {
+  width: 200px;
+  height: 200px;
+  border-radius: 400px;
+  margin-top: -250;
+  margin-left: 600;
+}
+
+.Circulo > .Cristiano {
+  width: 100px;
+  height: 100px;
+  border-radius: 500px;
+  position: absolute;
+  top: 2200px;
+  left: 200px;
+}
+
+.Circulo2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 400px;
+  margin-top: -250;
+  margin-left: 600;
+}
+
+.Circulo2 > .will {
+  width: 100px;
+  height: 100px;
+  border-radius: 500px;
+  position: absolute;
+  top: 2300px;
+  left: 200px;
+}
+
+.Contenedor1 {
+  position: absolute;
+  top: 1800px;
+  left: 100px;
+}
+
+.estrellas1 {
+  position: absolute;
+  top: 2300px;
+  left: 390px;
+}
+
+.estrellas2 {
+  position: absolute;
+  top: 2200px;
+  left: 390px;
+}
+
+.boton {
+  text-align: center;
+  background-color: aqua;
+  padding: 10px 15px;
+  position: absolute;
+  top: 2400px;
+  left: 915px;
+}
+.texto1{
+  position: absolute;
+  top: 2200px;
+  left: 390px;
+}
+.texto2{
+  position: absolute;
+  top: 2270px;
+  left: 390px;
+}
+.texto3{
+  position: absolute;
+  top: 2300px;
+  left: 390px;
+}
+.texto4{
+  position: absolute;
+  top: 2370px;
+  left: 390px;
+}
